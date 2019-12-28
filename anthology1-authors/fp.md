@@ -7,10 +7,10 @@ FP will receive the following royalties:
 # Copies
 FP will receive:
 * Complimentary contributor copy: 1 x $0.00 = $0.00
-* Additional copies: 3 x $5.83 = $17.49
+* Additional copies: 3 x $6.17 = $18.51
 * Total: $17.49
 # PayPal
-Via PayPal, FP will receive: $77.91 - $17.49 = $60.42
+Via PayPal, FP will receive: $77.91 - $18.51 = $59.40
 # Publication
 RG and G7L plan for the book to go live on or before 1/31/2020
 # Online

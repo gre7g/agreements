@@ -7,7 +7,7 @@ WW will receive the following royalties:
 # Copies
 WW will receive:
 * Complimentary contributor copy: 1 x $0.00 = $0.00
-* Additional copies: 0 x $5.83 = $0.00
+* Additional copies: 0 x $6.17 = $0.00
 * Total: $0.00
 # PayPal
 Via PayPal, WW will receive: $70.85 - $0.00 = $70.85

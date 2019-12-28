@@ -7,7 +7,7 @@ JFR will receive the following royalties:
 # Copies
 JFR will receive:
 * Complimentary contributor copy: 1 x $0.00 = $0.00
-* Additional copies: 0 x $5.83 = $0.00
+* Additional copies: 0 x $6.17 = $0.00
 * Total: $0.00
 # PayPal
 Via PayPal, JFR will receive: $48.74 - $0.00 = $48.74

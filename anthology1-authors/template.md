@@ -9,7 +9,7 @@ XX will receive the following royalties:
 # Copies
 XX will receive:
 * Complimentary contributor copy: 1 x $0.00 = $0.00
-* Additional copies: 3 x $5.83 = $14.88
+* Additional copies: 3 x $6.17 = $14.88
 * Total: $14.88
 # PayPal
 Via PayPal, XX will receive: $79.26 - $14.88 = $64.38
